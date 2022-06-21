@@ -1,1 +1,2 @@
-# data
+# WORKING WITH VARIOUS LIBRARIES FOR DATA MANIPULATION AS PART OF HOMEWORK FROM ITVDN AND COURSERA
+Libraries include: xml, json, csv, pickle, sqlite3
